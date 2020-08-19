@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile_Client</string>
+    <string name="ExtractButt">Extract</string>
+    <string name="Title">Hello Client!</string>
+</resources>
